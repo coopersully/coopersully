@@ -21,4 +21,6 @@
 <img src="https://simpleicons.org/icons/html5.svg" width="32">
 <img src="https://simpleicons.org/icons/intellijidea.svg" width="32">
 <img src="https://simpleicons.org/icons/java.svg" width="32">
+<img src="https://simpleicons.org/icons/pycharm.svg" width="32">
 <img src="https://simpleicons.org/icons/python.svg" width="32">
+<img src="https://simpleicons.org/icons/webstorm.svg" width="32">
