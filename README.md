@@ -4,7 +4,7 @@
 - 👋 Hi, I'm Cooper Sullivan
 - 📚 I'm currently a student at Samford University
 - 👀 I’m interested in Software Engineering & Game Development
-- 🌱 I’m learning C, x86-Assembly, and SQL
+- 🌱 I’m learning Unity, C#, and JavaScript
 
 ### Connect
 <a href="https://instagram.com/coopersully"> <img src="https://simpleicons.org/icons/instagram.svg" width="32">
