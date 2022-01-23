@@ -14,8 +14,11 @@
 <a href="https://www.twitch.tv/cursedimpulse"> <img src="https://simpleicons.org/icons/twitch.svg" width="32">
 
 ### Languages & Tools
+<img src="https://simpleicons.org/icons/adobeaudition.svg" width="32">
+<img src="https://simpleicons.org/icons/adobeillustrator.svg" width="32">
 <img src="https://simpleicons.org/icons/adobeaftereffects.svg" width="32">
 <img src="https://simpleicons.org/icons/adobephotoshop.svg" width="32">
 <img src="https://simpleicons.org/icons/intellijidea.svg" width="32">
 <img src="https://simpleicons.org/icons/java.svg" width="32">
 <img src="https://simpleicons.org/icons/python.svg" width="32">
+<img src="https://simpleicons.org/icons/html5.svg" width="32">
