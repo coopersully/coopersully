@@ -13,14 +13,17 @@
 <a href="https://www.snapchat.com/add/coopersully"> <img src="https://simpleicons.org/icons/snapchat.svg" width="32">
 <a href="https://www.twitch.tv/cursedimpulse"> <img src="https://simpleicons.org/icons/twitch.svg" width="32">
 
-### Languages & Tools
+### Languages
+<img src="https://simpleicons.org/icons/html5.svg" width="32">
+<img src="https://simpleicons.org/icons/java.svg" width="32">
+<img src="https://simpleicons.org/icons/python.svg" width="32">
+<img src="https://simpleicons.org/icons/webstorm.svg" width="32">
+
+### Tools
 <img src="https://simpleicons.org/icons/adobeaftereffects.svg" width="32">
 <img src="https://simpleicons.org/icons/adobeaudition.svg" width="32">
 <img src="https://simpleicons.org/icons/adobeillustrator.svg" width="32">
 <img src="https://simpleicons.org/icons/adobephotoshop.svg" width="32">
-<img src="https://simpleicons.org/icons/html5.svg" width="32">
 <img src="https://simpleicons.org/icons/intellijidea.svg" width="32">
-<img src="https://simpleicons.org/icons/java.svg" width="32">
 <img src="https://simpleicons.org/icons/pycharm.svg" width="32">
-<img src="https://simpleicons.org/icons/python.svg" width="32">
 <img src="https://simpleicons.org/icons/webstorm.svg" width="32">
