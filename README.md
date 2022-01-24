@@ -25,4 +25,5 @@
 <img src="https://simpleicons.org/icons/adobephotoshop.svg" width="32">
 <img src="https://simpleicons.org/icons/intellijidea.svg" width="32">
 <img src="https://simpleicons.org/icons/pycharm.svg" width="32">
+<img src="https://simpleicons.org/icons/unity.svg" width="32">
 <img src="https://simpleicons.org/icons/webstorm.svg" width="32">
