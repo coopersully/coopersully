@@ -1,29 +1,5 @@
-![](https://i.imgur.com/tkUgvQM.jpg)
-
-### About Me
-- 👋 Hi, I'm Cooper Sullivan
-- 📚 I'm currently a student at Samford University
-- 👀 I’m interested in Software Engineering & Game Development
-- 🌱 I’m learning Unity, C#, and JavaScript
-
-### Connect
-<a href="https://instagram.com/coopersully"> <img src="https://simpleicons.org/icons/instagram.svg" width="32">
-<a href="https://open.spotify.com/user/coopersully?si=880fd722b6a5495d"> <img src="https://simpleicons.org/icons/spotify.svg" width="32">
-<a href="https://twitter.com/coopersully"> <img src="https://simpleicons.org/icons/twitter.svg" width="32">
-<a href="https://www.snapchat.com/add/coopersully"> <img src="https://simpleicons.org/icons/snapchat.svg" width="32">
-<a href="https://www.twitch.tv/cursedimpulse"> <img src="https://simpleicons.org/icons/twitch.svg" width="32">
-
-### Languages
-<img src="https://simpleicons.org/icons/html5.svg" width="32">
-<img src="https://simpleicons.org/icons/java.svg" width="32">
-<img src="https://simpleicons.org/icons/python.svg" width="32">
-
-### Tools
-<img src="https://simpleicons.org/icons/adobeaftereffects.svg" width="32">
-<img src="https://simpleicons.org/icons/adobeaudition.svg" width="32">
-<img src="https://simpleicons.org/icons/adobeillustrator.svg" width="32">
-<img src="https://simpleicons.org/icons/adobephotoshop.svg" width="32">
-<img src="https://simpleicons.org/icons/intellijidea.svg" width="32">
-<img src="https://simpleicons.org/icons/pycharm.svg" width="32">
-<img src="https://simpleicons.org/icons/unity.svg" width="32">
-<img src="https://simpleicons.org/icons/webstorm.svg" width="32">
+<p align=center>
+    <kbd>
+        <img height=165 src="https://github-readme-stats.vercel.app/api?username=coopersully&bg_color=00000000&text_color=58a6ff&hide_border=true&disable_animations=true&include_all_commits=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coopersully&layout=compact&bg_color=00000000&text_color=58a6ff&hide_border=true&disable_animations=true" />
+    </kbd>
+</p>
