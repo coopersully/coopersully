@@ -21,7 +21,12 @@ Hey, my name's Cooper Sullivan and I'm a computer science student who likes to w
 * Git (⭐⭐⭐⭐⭐)
 * Flask (⭐⭐)
 * JDK (⭐⭐⭐⭐⭐⭐)
+* Gradle (⭐⭐⭐⭐)
 * Bukkit/Spigot/Paper API (⭐⭐⭐⭐⭐⭐)
 * Discord JDA (⭐⭐⭐⭐⭐)
 * HUGO Framework (⭐⭐⭐⭐⭐)
 * Unity (⭐⭐⭐⭐⭐)
+
+**Previous (public) projects:**
+* [Guardian](https://github.com/coopersully/guardian-public), a feature-rich moderation bot for Discord communities.
+* [Ducktective](https://github.com/Neonaut-Games/ducktective), a cartoon-themed RPG game made in Unity.
