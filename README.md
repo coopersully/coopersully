@@ -30,6 +30,6 @@ Hey, my name's Cooper Sullivan and I'm a computer science student who likes to w
 **Previous (public) projects:**
 * [Guardian](https://github.com/coopersully/guardian-public), a feature-rich moderation bot for Discord communities.
 * [OCR-Media](https://github.com/coopersully/ocr-media), a program to turn image-only media into searchable PDF documents.
-* [Gmail-Extractor](https://github.com/coopersully/ocr-media, a tool to extract emails and attachments from Gmail directly to your computer and/or SQL database.
+* [Gmail-Extractor](https://github.com/coopersully/gmail-extractor), a tool to extract emails and attachments from Gmail directly to your computer and/or SQL database.
 * [Ducktective](https://github.com/Neonaut-Games/ducktective), a cartoon-themed RPG game made in Unity.
 * [Halara Network](https://mc.halara.net/), a server network for Minecraft: Java Edition.
