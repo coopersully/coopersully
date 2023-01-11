@@ -14,6 +14,8 @@ Hey, my name's Cooper Sullivan and I'm a computer science student who likes to w
 * JSON
 
 **Languages I have a fair amount of experience in (1,000+ lines):**
+* JavaScript
+* C++
 * C
 * SQL
 
