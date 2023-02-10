@@ -1,4 +1,4 @@
-![](https://svgur.com/i/qD6.svg)
+<img align=center src="https://svgur.com/i/qD6.svg">
 
 ### hey, i'm cooper sullivan.
 
