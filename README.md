@@ -13,7 +13,7 @@ software engineer, undergraduate comp-sci student, talks a lot
 
 ---
 
-### My tech stack
+### my tech stack
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
