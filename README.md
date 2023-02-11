@@ -1,4 +1,4 @@
-<img align=center src="https://svgur.com/i/qD6.svg">
+<img align=center src="https://svgur.com/i/qBN.svg">
 
 ### hey, i'm cooper sullivan.
 
