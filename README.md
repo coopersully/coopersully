@@ -1,7 +1,5 @@
 <img align=center src="https://svgur.com/i/qBN.svg">
 
-### hey, i'm cooper sullivan.
-
 <img height=165 align=right src="https://github-readme-stats.vercel.app/api?username=coopersully&bg_color=00000000&text_color=58A6FF&hide_border=true&show_icons=true&include_all_commits=true">
 
 software engineer, undergraduate comp-sci student, talks a lot
