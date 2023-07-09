@@ -1,8 +1,6 @@
 <img align=center src="https://svgur.com/i/qBN.svg">
 
-<img height=165 align=right src="https://github-readme-stats.vercel.app/api?username=coopersully&bg_color=00000000&text_color=58A6FF&hide_border=true&show_icons=true&include_all_commits=true">
-
-software engineer, undergraduate comp-sci student, talks a lot
+software engineer. passionate about interactive media and artificial intelligence. talks a lot.
 - ℹ️ [**Visit my website & portfolio**](https://coopersully.me/)
 - 📇 [**Connect w/ me on LinkedIn**](https://linkedin.com/in/coopersully/)
 - 🐤 [**Follow me on Twitter**](https://twitter.com/coopersully/)
