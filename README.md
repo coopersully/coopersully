@@ -1,11 +1,12 @@
-<img align=center src="https://svgur.com/i/qBN.svg">
+<h2 align="center">Cooper Sullivan</h2>
+<p align="center">
+  <a href="https://coopersully.me">Portfolio</a> •
+  <a href="https://linkedin.com/in/coopersully">LinkedIn</a> •
+    <a href="https://instagram.com/coopersully">Instagram</a> •
+    <a href="mailto:coopersully02@gmail.com">Email</a>
+</p>
 
-software engineer. passionate about interactive media and artificial intelligence. talks a lot.
-- ℹ️ [**Visit my website & portfolio**](https://coopersully.me/)
-- 📇 [**Connect w/ me on LinkedIn**](https://linkedin.com/in/coopersully/)
-- 🐤 [**Follow me on Twitter**](https://twitter.com/coopersully/)
-- 📸 [**Follow me on Instagram**](https://instagram.com/coopersully/)
-- 📧 [**Get in touch w/ me via email**](mailto:coopersully02@gmail.com)
+a software engineer passionate about interactive media, ai, and web dev. usually won't stop talking tech, but also philosophy, audio engineering, and music. not always in that order.
 
 ---
 
