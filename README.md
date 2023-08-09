@@ -10,6 +10,10 @@ a software engineer passionate about interactive media, ai, and web dev. usually
 
 ---
 
+### recent activity
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### my tech stack
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
