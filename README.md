@@ -10,7 +10,14 @@ a software engineer passionate about interactive media, ai, and web dev. usually
 
 ---
 
+### my favorite projects
+a list of projects i've either led or done on my own. nobody picks a favorite child, but here are mine.
+- GQ Magazine's first nft collection, [Change is Good](https://gq3.io/)
+- a self-branded Wordle clone nobody asked for, [Coople](https://coople.vercel.app/).
+- an all-in-one solution for Discord bots, [Guardian](https://guaridan.coopersully.me/).
+
 ### recent activity
+automatically updated every day unless my github actions decide to fail.
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
