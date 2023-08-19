@@ -19,7 +19,17 @@ a list of projects i've either led or done on my own. nobody picks a favorite ch
 ### recent activity 📆
 automatically updated every day unless my github actions decide to fail.
 <!--START_SECTION:waka-->
+
+```txt
+Python       3 hrs 26 mins   ██████████████████▓░░░░░░   75.29 %
+YAML         44 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.17 %
+Markdown     11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+Vue.js       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+```
+
 <!--END_SECTION:waka-->
+
 
 ### my tech stack 🧰
 languages & frameworks i frequently work with. if you'd like a more up-to-date list, visit my portfolio.
