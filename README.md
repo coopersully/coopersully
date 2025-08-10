@@ -12,7 +12,7 @@ a software engineer passionate about interactive media, ai, and web dev. talks a
 
 ### my favorite projects 🧃
 a list of projects i've either led or done on my own. nobody picks a favorite child, but here are mine.
-- GQ Magazine's first nft collection, [Change is Good](https://gq3.io/).
+- GQ Magazine's first nft collection, [Change is Good](https://opensea.io/collection/gq3-issue-001-change-is-good).
 - an all-in-one solution for Discord bots, [Guardian](https://guardian.coopersully.me/).
 
 ### recent activity 📆
