@@ -20,11 +20,11 @@ automatically updated every day unless my github actions decide to fail.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript          19 hrs 17 mins  ███████████████████████▒░   93.61 %
-JSON                28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-CSS                 14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-JavaScript          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-CSV                 9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+TypeScript   23 hrs 57 mins  ███████████████████████░░   92.19 %
+JSON         48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+JavaScript   31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+CSS          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+CSV          9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
