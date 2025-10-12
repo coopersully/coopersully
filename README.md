@@ -20,7 +20,8 @@ automatically updated every day unless my github actions decide to fail.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML       7 mins          █████████████▒░░░░░░░░░░░   53.28 %
+Markdown   6 mins          ███████████▓░░░░░░░░░░░░░   46.72 %
 ```
 
 <!--END_SECTION:waka-->
